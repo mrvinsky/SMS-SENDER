@@ -1,4 +1,3 @@
-Tabii, reponun adını "SMS-SENDER" olarak değiştirelim. Açıklamayı da bu değişikliği yansıtacak şekilde güncelleyelim. İşte güncellenmiş bir GitHub reposu açıklama örneği:
 
 ---
 
